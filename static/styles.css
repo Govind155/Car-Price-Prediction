@@ -1,0 +1,13 @@
+html { font-family: sans-serif; background: #eee; padding: 1rem; }
+body{ max-width: 960px; font:15px/1.5 Arial, Helvetica,sans-serif; 	padding: 0px; 	margin: 0 auto; background-color: #a079d4; }
+
+header{ background:#333333 ;height:50px; width:100%; }
+
+form { text-align:center;  }
+#brandname{ font-size:30px;	font-weight: bold;text-align:center; 	color: #fff;}
+ 
+ 
+ 
+p.copyright { text-align:center;;font-weight: bold;  color: #fff; width: 100%;line-height: 40px; bottom:0;text-align: center;  font-size: 0.7em;}  
+footer.footer {position: relative; height:40px; width: 100%;background-color: #333333;}
+ 
