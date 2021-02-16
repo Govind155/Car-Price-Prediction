@@ -8,7 +8,7 @@ https://car-price-predict-01.herokuapp.com/
 ![car](https://user-images.githubusercontent.com/73738015/103065286-3d63bb80-45dc-11eb-877a-4e52308b9e69.JPG)
 
 ## Dataset
-This dataset contains information about used cars listed on www.cardekho.com[https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=CAR+DETAILS+FROM+CAR+DEKHO.csv]
+This dataset contains information about used cars listed on www.cardekho.com (https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=CAR+DETAILS+FROM+CAR+DEKHO.csv)
 
 ## Technologies Used
 
