@@ -8,7 +8,7 @@ https://car-price-predict-01.herokuapp.com/
 ![car](https://user-images.githubusercontent.com/73738015/103065286-3d63bb80-45dc-11eb-877a-4e52308b9e69.JPG)
 
 ## Dataset
-This dataset contains information about used cars listed on www.cardekho.com | Dataset(https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv) </br>
+This dataset contains information about used cars listed on www.cardekho.com | [Dataset Link](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv) </br>
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.  </br>
 It contains 301 rows and 8 columns.  </br>
 The columns in the given dataset are as follows:  </br>
