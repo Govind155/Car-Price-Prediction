@@ -5,7 +5,8 @@ This project aims to solve the problem of predicting the price of a used car, us
 https://car-price-predict-01.herokuapp.com/
 
 ## Screenshot
-![car](https://user-images.githubusercontent.com/73738015/103065286-3d63bb80-45dc-11eb-877a-4e52308b9e69.JPG)
+![car](https://user-images.githubusercontent.com/73738015/103065286-3d63bb80-45dc-11eb-877a-4e52308b9e69.JPG)(https://car-price-predict-01.herokuapp.com/
+)
 
 ## Dataset
 This dataset contains information about used cars listed on www.cardekho.com | [Dataset Link](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv) </br>
